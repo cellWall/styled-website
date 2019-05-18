@@ -1,0 +1,12 @@
+#image-section {
+    background-color: antiquewhite;
+   text-align: center;
+}
+
+#image-section-header {
+    color: white;
+    background-color: black;
+    width: 250px;
+    margin: auto;
+}
+
